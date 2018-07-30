@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="QB_AdminService" />
+        <module name="QB_AdminWeb" />
+        <module name="QB_Core" />
+        <module name="QB_Domain" />
+        <module name="QB_Mapper" />
+        <module name="QB_Provider" />
+        <module name="QB_Service" />
+        <module name="QB_SSOController" />
+        <module name="QB_SSOProvider" />
+        <module name="QB_SSOService" />
+        <module name="QB_UIController" />
+        <module name="QB_UIWeb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
